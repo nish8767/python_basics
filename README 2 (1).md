@@ -54,13 +54,13 @@ Input, arithmetic
 
 ## Screenshots
 Question 1:
-https://i.ibb.co/rnjJqKH/IMG-0857.jpg
+(https://ibb.co/0y9Mkqnv"><img src="https://i.ibb.co/d4p2SBfx/Whats-App-Image-2026-09-25-at-1-53-26-AM.jpg)
 
 Question 2:
-https://i.ibb.co/BVxjLYLz/IMG-0859.jpg
+(https://i.ibb.co/SwBt6qwh/Whats-App-Image-2026-09-25-at-1-56-14-AM.jpg)
 
 Question 3:
-https://i.ibb.co/bg2B3rGF/IMG-0862.jpg
+(https://i.ibb.co/0RNr1Ckv/Whats-App-Image-2026-09-25-at-1-56-14-AM-1.jpg)
 
 Question 4:
 https://i.ibb.co/S4fFx9gW/IMG-0864.jpg
