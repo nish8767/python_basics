@@ -54,46 +54,46 @@ Input, arithmetic
 
 ## Screenshots
 Question 1:
-(https://ibb.co/0y9Mkqnv"><img src="https://i.ibb.co/d4p2SBfx/Whats-App-Image-2026-09-25-at-1-53-26-AM.jpg)
+(https://i.ibb.co/d4p2SBfx/Whats-App-Image-2026-09-25-at-1-53-26-AM.jpg)
 
 Question 2:
 (https://i.ibb.co/SwBt6qwh/Whats-App-Image-2026-09-25-at-1-56-14-AM.jpg)
 
 Question 3:
-(https://i.ibb.co/0RNr1Ckv/Whats-App-Image-2026-09-25-at-1-56-14-AM-1.jpg)
+(https://i.ibb.co/ZRt7XJKP/Whats-App-Image-2026-09-25-at-1-56-14-AM-2.jpg)
 
 Question 4:
-https://i.ibb.co/S4fFx9gW/IMG-0864.jpg
+(https://i.ibb.co/0RNr1Ckv/Whats-App-Image-2026-09-25-at-1-56-14-AM-1.jpg)
 
 Question 5:
-https://i.ibb.co/mrcmndzR/IMG-0867.jpg
+(https://i.ibb.co/ZRRz6Pzm/Whats-App-Image-2026-09-25-at-2-06-54-AM.jpg)
 
 Question 6:
-https://i.ibb.co/zhZXkcZq/IMG-0868.jpg
+(https://i.ibb.co/fVVLDntb/Whats-App-Image-2026-09-25-at-2-06-54-AM-1.jpg)
 
 Question:7
-https://i.ibb.co/Dg1fDH5F/IMG-0870.jpg
+(https://i.ibb.co/fzpthtYq/Whats-App-Image-2026-09-25-at-2-12-29-AM.jpg)
 
 Question:8
-https://i.ibb.co/7JmMYxSz/IMG-0872.jpg
+(https://i.ibb.co/SwfgFQYY/Whats-App-Image-2026-09-25-at-2-12-29-AM-1.jpg)
 
 Question:9
-https://i.ibb.co/nsr4KTtS/IMG-0873.jpg
+(https://i.ibb.co/ymdpqPmW/Whats-App-Image-2026-09-25-at-2-12-29-AM-2.jpg)
 
 Question:10
-https://i.ibb.co/NgngL8d9/IMG-0874.jpg
+(https://i.ibb.co/ZpC8LYv1/Whats-App-Image-2026-09-25-at-2-20-00-AM.jpg)
 
 Question:11
-https://i.ibb.co/1t82tN5J/IMG-0875.jpg
+(https://i.ibb.co/VcxRzx1Q/Whats-App-Image-2026-09-25-at-2-20-00-AM-1.jpg)
 
 Question:12
-https://i.ibb.co/JR57JK7v/IMG-0876.jpg
+(https://i.ibb.co/YT3wZpz2/Whats-App-Image-2026-09-25-at-2-20-00-AM-2.jpg)
 
 Question:13
-https://i.ibb.co/xKgHwt0F/IMG-0877.jpg
+(https://i.ibb.co/20sTvzLP/Whats-App-Image-2026-09-25-at-2-32-29-AM.jpg)
 
 Question:14
-https://i.ibb.co/0V6bjwg6/IMG-0878.jpg
+(https://i.ibb.co/zh8k999S/Whats-App-Image-2026-09-25-at-2-20-00-AM-3.jpg)
 
 Question:15
 https://i.ibb.co/jvkdqLXB/IMG-0879.jpg
