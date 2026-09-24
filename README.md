@@ -8,8 +8,6 @@ Print name, age, college and branch
 
 
 
-## Screenshots
 
-![App Screenshot](https://dummyimage.com/468x300?text=App+Screenshot+Here)
 
-https://i.ibb.co/zTthtKfK/Whats-App-Image-2026-09-24-at-11-49-28-AM-1.jpg
+
