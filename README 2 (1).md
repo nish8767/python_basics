@@ -1,0 +1,185 @@
+
+# Python Basic_to_advance
+
+Questions of Python Program
+1. Print name, age, college and branch.
+2. Take name as input and greet the user.
+3. Take two numbers and display their sum.
+4. Perform all arithmetic operations on two numbers.
+5. Calculate area of a circle.
+6. Calculate simple interest
+Input, arithmetic
+7. Convert Celsius to Fahrenheit.
+8. Calculate total and percentage of 5 subjects.
+9. Swap two numbers. 
+10. Convert seconds into hours, minutes and seconds.
+11.Check whether a number is positive, negative or zero.
+12. Check whether a number is even or odd.
+13. Check whether a person is eligible to vote.
+14. Find greater of two numbers.
+15. Find greatest of three numbers.
+16.Check whether a year is a leap year.
+17. Check whether a number is divisible by 5 and 11.
+18. Check whether a number lies between 10 and 50.
+19. Simple calculator using  if/elif.
+20. Grade calculator from marks.
+21. Print numbers 1-10.
+22. Print numbers 10-1.
+23. Print even numbers 1-100.
+24. Print odd numbers 1-100.
+25. Print multiples of 5.
+26. Print multiplication table.
+27. Sum numbers 1-10.
+28. Sum numbers 1-N.
+29.Find factorial of N.
+30.Count from 1 to N.
+31. Count even numbers from 1-N.
+32. Count odd numbers from 1-N.
+33. Sum even numbers.
+34. Sum odd numbers.
+35. Find largest number from 1-N.
+36. Find smallest number from 1-N.
+37. Count numbers divisible by 3.
+38. Print factors of a number.
+39. Check whether a number is prime.
+40. Print prime numbers from 1-N.
+
+
+
+
+
+
+
+
+
+## Screenshots
+Question 1:
+https://i.ibb.co/rnjJqKH/IMG-0857.jpg
+
+Question 2:
+https://i.ibb.co/BVxjLYLz/IMG-0859.jpg
+
+Question 3:
+https://i.ibb.co/bg2B3rGF/IMG-0862.jpg
+
+Question 4:
+https://i.ibb.co/S4fFx9gW/IMG-0864.jpg
+
+Question 5:
+https://i.ibb.co/mrcmndzR/IMG-0867.jpg
+
+Question 6:
+https://i.ibb.co/zhZXkcZq/IMG-0868.jpg
+
+Question:7
+https://i.ibb.co/Dg1fDH5F/IMG-0870.jpg
+
+Question:8
+https://i.ibb.co/7JmMYxSz/IMG-0872.jpg
+
+Question:9
+https://i.ibb.co/nsr4KTtS/IMG-0873.jpg
+
+Question:10
+https://i.ibb.co/NgngL8d9/IMG-0874.jpg
+
+Question:11
+https://i.ibb.co/1t82tN5J/IMG-0875.jpg
+
+Question:12
+https://i.ibb.co/JR57JK7v/IMG-0876.jpg
+
+Question:13
+https://i.ibb.co/xKgHwt0F/IMG-0877.jpg
+
+Question:14
+https://i.ibb.co/0V6bjwg6/IMG-0878.jpg
+
+Question:15
+https://i.ibb.co/jvkdqLXB/IMG-0879.jpg
+
+Question 16:
+https://i.ibb.co/N6CNTSP7/IMG-0890.jpg
+
+Question 17:
+https://i.ibb.co/cKhJcXkB/IMG-0891.jpg
+
+Question 18:
+https://i.ibb.co/SXZDX9W0/IMG-0892.jpg
+
+Question 19:
+https://i.ibb.co/XksKDx2J/IMG-0893.jpg
+
+Question 20:
+https://i.ibb.co/Kj2ZWmPv/IMG-0894.jpg
+
+Question 21:
+https://i.ibb.co/yFSs97C0/IMG-0897.jpg
+
+Question 22:
+https://i.ibb.co/DHGyBdMV/IMG-0898.jpg
+
+Question 23:
+https://i.ibb.co/p6pqjFt2/IMG-0899.jpg
+
+Question 24:
+https://i.ibb.co/FkmSYWDK/IMG-0900.jpg
+
+Question 25:
+https://i.ibb.co/nMwrWyY0/IMG-0901.jpg
+
+Question 26:
+https://i.ibb.co/HLFk7P5x/IMG-0902.jpg
+
+Question 27:
+https://i.ibb.co/whKyfL4s/IMG-0903.jpg
+
+Question 28:
+https://i.ibb.co/F4tCNysY/IMG-0904.jpg
+
+Question 29:
+https://i.ibb.co/YF2Zd25q/IMG-0905.jpg
+
+Question 30:
+https://i.ibb.co/N6g7DJW1/IMG-0906.jpg
+
+Question 31:
+https://i.ibb.co/M5Vsdm32/IMG-0907.jpg
+
+Question 32:
+https://i.ibb.co/ZpdptnVK/IMG-0908.jpg
+
+Question 33:
+https://i.ibb.co/DPYB2Ttb/IMG-0909.jpg
+
+Question 34:
+https://i.ibb.co/zHXJSDwh/IMG-0910.jpg
+
+Question 35:
+https://i.ibb.co/LzZvM7XP/IMG-0911.jpg
+
+Question 36:
+https://i.ibb.co/xKgXJSqP/IMG-0912.jpg
+
+Question 37:
+https://i.ibb.co/670YPFx2/IMG-0913.jpg
+
+Question 38:
+https://i.ibb.co/sMzwMpw/IMG-0914.jpg
+
+Question 39:
+https://i.ibb.co/9mmR04T1/IMG-0915.jpg
+
+Question 40:
+https://i.ibb.co/jkw2CbTG/IMG-0916.jpg
+
+
+
+
+
+
+
+
+
+
+
