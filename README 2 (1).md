@@ -96,13 +96,13 @@ Question:14
 (https://i.ibb.co/zh8k999S/Whats-App-Image-2026-09-25-at-2-20-00-AM-3.jpg)
 
 Question:15
-https://i.ibb.co/jvkdqLXB/IMG-0879.jpg
+(https://i.ibb.co/5WSPvqdv/Whats-App-Image-2026-09-25-at-2-36-25-AM.jpg)
 
 Question 16:
-https://i.ibb.co/N6CNTSP7/IMG-0890.jpg
+(https://i.ibb.co/hF79f7Yz/Whats-App-Image-2026-09-25-at-2-37-38-AM.jpg)
 
 Question 17:
-https://i.ibb.co/cKhJcXkB/IMG-0891.jpg
+(https://i.ibb.co/9HmYxgPN/Whats-App-Image-2026-09-25-at-2-38-34-AM.jpg)
 
 Question 18:
 https://i.ibb.co/SXZDX9W0/IMG-0892.jpg
